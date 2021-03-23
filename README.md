@@ -1,6 +1,6 @@
 # TraderMade
 
-TraderMade API is easy to use JSON REST API with live and historical currency and cfd rates. Data is sourced from an aggregated feed of institutional providers giving you reliable and up-to date traded rates. 
+TraderMade API is easy to use JSON REST API with live and historical currency and cfd rates. Data is sourced from an aggregated feed of institutional providers giving you reliable and up-to date traded rates. You can see full documentation at https://marketdata.tradermade.com/docs/restful-api
 Our API powers applications and financial software in banks and multinational insitutions all around the world.
 
 ## Features
