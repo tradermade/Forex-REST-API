@@ -19,7 +19,7 @@ Time-series api endpoint provides OHLC data for the currencies requested.
 Convert api endpoint enables the user to request the currency conversion rates.
 
 ## Documentation
-A detailed version of the documentation is available at https://tradermade.com/documentation
+A detailed version of the documentation is available at https://marketdata.tradermade.com/docs/restful-api
 
 ## Legal
 Use of the API is subject to the terms and conditions avalaible at https://tradermade.com/termsandconditions
